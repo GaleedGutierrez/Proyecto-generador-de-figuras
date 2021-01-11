@@ -395,9 +395,9 @@ function dibujarClick(cantidad_figuras) {
                 }
           }
         } else {
-            alert("Hay un error. Verififique los datos.");
+            alert("Hay un error. Verifique los datos.");
           }
   } else {
-    alert("Hay un error. Verififique los datos.");
+    alert("Hay un error. Verifique los datos.");
     }
 }
